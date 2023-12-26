@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors-with-py
+Rock Paper Scissors
