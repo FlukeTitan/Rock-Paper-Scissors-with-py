@@ -4,7 +4,7 @@ liste=["Taş","Kağit","Makas"]
 liste2=["Rock","Paper","Scissors"]
 x=(random.choice(liste2))
 y=(random.choice(liste))
-dil=input("lütfen bir dil seçiniz = ")
+dil=input("Language = ")
 
 if dil=="en":
     choice=input("Please make your choice (Rock,Paper,Scissors) = ").upper()
